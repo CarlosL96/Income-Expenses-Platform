@@ -1,0 +1,31 @@
+.header {
+  background-color: white;
+}
+.navbarContainer {
+  background: white;
+  padding: 0px;
+  margin: 0%;
+  width: max-content;
+  height: 55px;
+  font-size: 100%;
+}
+
+.inactive.active {
+  color: white;
+  background-color: rgb(34, 193, 195);
+  font-size: 20px;
+}
+
+.inactive {
+  text-decoration: none;
+  height: 50px;
+  font-size: auto;
+  line-height: 50px;
+  margin: 0%;
+  padding: 10%;
+  transition-duration: 0.5s;
+}
+a.inactive:hover {
+  background-color: rgb(129, 216, 218);
+  color: white;
+}
