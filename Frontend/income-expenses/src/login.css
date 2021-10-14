@@ -95,3 +95,8 @@ html{
 #button{
   padding-bottom: 1.5rem;
 }
+
+.error {
+  color: red;
+  margin-bottom: 10px;
+}
